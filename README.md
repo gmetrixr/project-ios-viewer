@@ -23,8 +23,10 @@ SwiftUI, SceneKit, GMetri SDK (APIs), AgoraSDK
 
 ### **Evaluation Criteria**
 
-You need to create an iOS App. The complete list of features in GMetri is very exhaustive. So we aren’t targeting that. But the following should work:
+You need to create a working iOS App that runs any GMetri deployment link. The complete list of features in that GMetri viewer is very exhaustive. So we aren’t targeting that. But the following should work:
 
 1. A 360 scene + images + videos
 2. Rules that show/hide images and videos, and trigger play/pause for videos
 3. Text and Audio chat
+
+We can also discuss at the start of the project a practical goal that’s achievable by you.
