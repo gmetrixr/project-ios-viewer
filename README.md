@@ -1,4 +1,4 @@
-# project-swift-viewer
+# project-ios-viewer
 
 An iOS native GMetri Viewer
 
