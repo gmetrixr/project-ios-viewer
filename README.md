@@ -9,7 +9,7 @@ GMetri runs as a URL on most browsers natively. However, on iOS there are a [lo
 Create an iOS app to circumvent these limitations.
 
 - The UI would be similar to that of a GMetri deployment.
-- You can use [SceneKit](https://developer.apple.com/documentation/scenekit](https://developer.apple.com/documentation/scenekit) to replicate the rendering of GMetri’s project json.
+- You can use [SceneKit](https://developer.apple.com/documentation/scenekit) to replicate the rendering of GMetri’s project json.
 - Additional features like audio chat, text chat can be implemented using the native [Agora SDK](https://docs.agora.io/en/voice-calling/get-started/get-started-sdk?platform=ios).
 
 ### **Technology Stack**
